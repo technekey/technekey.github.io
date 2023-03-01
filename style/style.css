@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: white;
+  text-shadow: 2px 2px #8F00FF;
+  border-bottom: 1px solid #FFB400;
+}
+
+a {
+  color: #FFB400;
+  text-decoration: none;
+  text-shadow: 1px 1px #8F00FF;
+}
+
+a:hover {
+  color: white;
+}
+
